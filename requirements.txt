@@ -1,0 +1,6 @@
+Required Content,Role
+Flask,Web server framework setup
+numpy,Handling image and data arrays
+Pillow,Image (PNG) transformation and processing
+pyserial,Serial communication with the device (MCU)
+xlsxwriter,"(Not in current code, but for potential future Excel saving capability)"
